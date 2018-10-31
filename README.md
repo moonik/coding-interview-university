@@ -663,9 +663,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
         - [X] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
         - [X] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
-        - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
-        - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
-    - [ ] 2s and 1s complement
+        - [X] [The Bit Twiddler](http://bits.stephan-brumme.com/)
+        - [X] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
+    - [X] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
         - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
         - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
