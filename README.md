@@ -1061,6 +1061,9 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
         - [ ] [Keynote David Beazley - Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU)
         - [ ] [Mutex in Python](https://www.youtube.com/watch?v=0zaPs8OtyKY)
+     - [X] Java
+        - [X] [1](https://www.youtube.com/playlist?list=PL786bPIlqEjRFPH8Z9IOwJWseG6Dq_Qxb)
+        - [X] [CaveOfProgramming](https://www.youtube.com/watch?v=YdlnEWC-7Wo&list=PLBB24CFB073F1048E)
 
 - ### Papers
     - Reading all from end to end with full comprehension will likely take more time than you have. I recommend being selective on papers and their sections.
