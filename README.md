@@ -1324,6 +1324,22 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
     - [ ] [A* Pathfinding (E01: algorithm explanation) (video)](https://www.youtube.com/watch?v=-L-WgKMFuhE)
     
+- ### Balanced Binary Tree
+        - [ ] **Red/black trees**
+        - these are a translation of a 2-3 tree (see below)
+        - In practice:
+            Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.
+            Not only does this make them valuable in time-sensitive applications such as real-time applications,
+            but it makes them valuable building blocks in other data structures which provide worst-case guarantees;
+            for example, many data structures used in computational geometry can be based on red–black trees, and
+            the Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,
+            the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
+            hashcodes, a Red-Black tree is used.
+        - [ ] [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
+        - [ ] [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
+        - [ ] [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+        - [ ] [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+    
 ---
 
 ## Final Review
@@ -1682,21 +1698,6 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
         - [ ] MIT Lecture: Splay Trees:
             - Gets very mathy, but watch the last 10 minutes for sure.
             - [Video](https://www.youtube.com/watch?v=QnPl_Y6EqMo)
-
-    - [ ] **Red/black trees**
-        - these are a translation of a 2-3 tree (see below)
-        - In practice:
-            Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.
-            Not only does this make them valuable in time-sensitive applications such as real-time applications,
-            but it makes them valuable building blocks in other data structures which provide worst-case guarantees;
-            for example, many data structures used in computational geometry can be based on red–black trees, and
-            the Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,
-            the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
-            hashcodes, a Red-Black tree is used.
-        - [ ] [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
-        - [ ] [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
-        - [ ] [Red-Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-        - [ ] [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/)
 
     - [ ] **2-3 search trees**
         - In practice:
