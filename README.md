@@ -1325,6 +1325,24 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] [A* Pathfinding (E01: algorithm explanation) (video)](https://www.youtube.com/watch?v=-L-WgKMFuhE)
     
 - ### Balanced Binary Tree
+    - [ ] **Splay trees**
+        - In practice:
+            Splay trees are typically used in the implementation of caches, memory allocators, routers, garbage collectors,
+            data compression, ropes (replacement of string used for long text strings), in Windows NT (in the virtual memory,
+            networking and file system code) etc.
+        - [ ] [CS 61B: Splay Trees (video)](https://archive.org/details/ucberkeley_webcast_G5QIXywcJlY)
+        - [ ] MIT Lecture: Splay Trees:
+            - Gets very mathy, but watch the last 10 minutes for sure.
+            - [Video](https://www.youtube.com/watch?v=QnPl_Y6EqMo)
+
+    - [ ] **2-3 search trees**
+        - In practice:
+            2-3 trees have faster inserts at the expense of slower searches (since height is more compared to AVL trees).
+        - You would use 2-3 tree very rarely because its implementation involves different types of nodes. Instead, people use Red Black trees.
+        - [ ] [23-Tree Intuition and Definition (video)](https://www.youtube.com/watch?v=C3SsdUqasD4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=2)
+        - [ ] [Binary View of 23-Tree](https://www.youtube.com/watch?v=iYvBtGKsqSg&index=3&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
+        - [ ] [2-3 Trees (student recitation) (video)](https://www.youtube.com/watch?v=TOb1tuEZ2X4&index=5&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+        
     - [ ] **Red/black trees**
         - these are a translation of a 2-3 tree (see below)
         - In practice:
