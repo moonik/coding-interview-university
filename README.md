@@ -1325,7 +1325,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] [A* Pathfinding (E01: algorithm explanation) (video)](https://www.youtube.com/watch?v=-L-WgKMFuhE)
     
 - ### Balanced Binary Tree
-        - [ ] **Red/black trees**
+    - [ ] **Red/black trees**
         - these are a translation of a 2-3 tree (see below)
         - In practice:
             Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.
