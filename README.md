@@ -1320,9 +1320,9 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [X] [How To Write A Bloom Filter App](http://blog.michaelschmatz.com/2016/04/11/how-to-write-a-bloom-filter-cpp/)
     
 - ### A*
-    - [ ] [A Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
-    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
-    - [ ] [A* Pathfinding (E01: algorithm explanation) (video)](https://www.youtube.com/watch?v=-L-WgKMFuhE)
+    - [X] [A Search Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+    - [X] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
+    - [X] [A* Pathfinding (E01: algorithm explanation) (video)](https://www.youtube.com/watch?v=-L-WgKMFuhE)
     
 - ### Balanced Binary Tree
     - [X] **Splay trees**
