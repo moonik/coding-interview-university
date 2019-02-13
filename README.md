@@ -1707,13 +1707,13 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
         - [ ] [AVL Tree Implementation (video)](https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation)
         - [ ] [Split And Merge](https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge)
 
-    - [ ] **Splay trees**
+    - [X] **Splay trees**
         - In practice:
             Splay trees are typically used in the implementation of caches, memory allocators, routers, garbage collectors,
             data compression, ropes (replacement of string used for long text strings), in Windows NT (in the virtual memory,
             networking and file system code) etc.
-        - [ ] [CS 61B: Splay Trees (video)](https://archive.org/details/ucberkeley_webcast_G5QIXywcJlY)
-        - [ ] MIT Lecture: Splay Trees:
+        - [X] [CS 61B: Splay Trees (video)](https://archive.org/details/ucberkeley_webcast_G5QIXywcJlY)
+        - [X] MIT Lecture: Splay Trees:
             - Gets very mathy, but watch the last 10 minutes for sure.
             - [Video](https://www.youtube.com/watch?v=QnPl_Y6EqMo)
 
@@ -1741,18 +1741,18 @@ software engineer, and to be aware of certain technologies and algorithms, so yo
         - 2-3 trees are 3-ary
         - [ ] [K-Ary Tree](https://en.wikipedia.org/wiki/K-ary_tree)
 
-    - [ ] **B-Trees**
+    - [X] **B-Trees**
         - fun fact: it's a mystery, but the B could stand for Boeing, Balanced, or Bayer (co-inventor)
         - In Practice:
             B-Trees are widely used in databases. Most modern filesystems use B-trees (or Variants). In addition to
             its use in databases, the B-tree is also used in filesystems to allow quick random access to an arbitrary
             block in a particular file. The basic problem is turning the file block i address into a disk block
             (or perhaps to a cylinder-head-sector) address.
-        - [ ] [B-Tree](https://en.wikipedia.org/wiki/B-tree)
-        - [ ] [Introduction to B-Trees (video)](https://www.youtube.com/watch?v=I22wEC1tTGo&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=6)
-        - [ ] [B-Tree Definition and Insertion (video)](https://www.youtube.com/watch?v=s3bCdZGrgpA&index=7&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
-        - [ ] [B-Tree Deletion (video)](https://www.youtube.com/watch?v=svfnVhJOfMc&index=8&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
-        - [ ] [MIT 6.851 - Memory Hierarchy Models (video)](https://www.youtube.com/watch?v=V3omVLzI0WE&index=7&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+        - [X] [B-Tree](https://en.wikipedia.org/wiki/B-tree)
+        - [X] [Introduction to B-Trees (video)](https://www.youtube.com/watch?v=I22wEC1tTGo&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=6)
+        - [X] [B-Tree Definition and Insertion (video)](https://www.youtube.com/watch?v=s3bCdZGrgpA&index=7&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
+        - [X] [B-Tree Deletion (video)](https://www.youtube.com/watch?v=svfnVhJOfMc&index=8&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
+        - [X] [MIT 6.851 - Memory Hierarchy Models (video)](https://www.youtube.com/watch?v=V3omVLzI0WE&index=7&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
                 - covers cache-oblivious B-Trees, very interesting data structures
                 - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
 
