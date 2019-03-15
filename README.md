@@ -1204,25 +1204,25 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - simplicity and robustness
         - tradeoffs
         - performance analysis and optimization
-- [ ] **START HERE**: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [ ] [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
-- [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
-- [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
-- [ ] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
-- [ ] [Database Normalization - 1NF, 2NF, 3NF and 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
-- [ ] [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - There are a lot of resources in this one. Look through the articles and examples. I put some of them below.
-- [ ] [How to ace a systems design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
-- [ ] [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
-- [ ] [How long does it take to make a context switch?](http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html)
-- [ ] [Transactions Across Datacenters (video)](https://www.youtube.com/watch?v=srOgpXECblk)
-- [ ] [A plain English introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
-- [ ] Paxos Consensus algorithm:
+- [X] **START HERE**: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [X] [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
+- [X] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
+- [X] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
+- [X] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
+- [X] [Database Normalization - 1NF, 2NF, 3NF and 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
+- [X] [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - There are a lot of resources in this one. Look through the articles and examples. I put some of them below.
+- [X] [How to ace a systems design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+- [X] [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
+- [X] [How long does it take to make a context switch?](http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html)
+- [X] [Transactions Across Datacenters (video)](https://www.youtube.com/watch?v=srOgpXECblk)
+- [X] [A plain English introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
+- [X] Paxos Consensus algorithm:
     - [short video](https://www.youtube.com/watch?v=s8JqcZtvnsM)
     - [extended video with use case and multi-paxos](https://www.youtube.com/watch?v=JEpsBg0AO6o)
     - [paper](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
-- [ ] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
-- [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
-- [ ] Scalability:
+- [X] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+- [X] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+- [X] Scalability:
     - [ ] [Great overview (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
     - [ ] Short series:
         - [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
