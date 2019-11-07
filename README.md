@@ -1064,6 +1064,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
      - [X] Java
         - [X] [1](https://www.youtube.com/playlist?list=PL786bPIlqEjRFPH8Z9IOwJWseG6Dq_Qxb)
         - [X] [CaveOfProgramming](https://www.youtube.com/watch?v=YdlnEWC-7Wo&list=PLBB24CFB073F1048E)
+        - [ ] [Java Concurrency Study Guide](http://tutorials.jenkov.com/java-concurrency/index.html#multithreading-and-concurrency-in-java)
 
 - ### Papers
     - Reading all from end to end with full comprehension will likely take more time than you have. I recommend being selective on papers and their sections.
