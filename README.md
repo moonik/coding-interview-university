@@ -879,20 +879,20 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
 
 - I'll implement:
-    - [ ] DFS with adjacency list (recursive)
+    - [X] DFS with adjacency list (recursive)
     - [X] DFS with adjacency list (iterative with stack)
     - [X] DFS with adjacency matrix (recursive)
     - [X] DFS with adjacency matrix (iterative with stack)
-    - [ ] BFS with adjacency list
+    - [X] BFS with adjacency list
     - [X] BFS with adjacency matrix
-    - [ ] single-source shortest path (Dijkstra)
-    - [ ] minimum spanning tree
+    - [X] single-source shortest path (Dijkstra)
+    - [X] minimum spanning tree
     - DFS-based algorithms (see Aduni videos above):
         - [X] check for cycle (needed for topological sort, since we'll check for cycle before starting)
         - [X] topological sort
         - [X] count connected components in a graph
         - [X] list strongly connected components
-        - [ ] check for bipartite graph
+        - [X] check for bipartite graph
 
 You'll get more graph practice in Skiena's book (see Books section below) and the interview books
 
