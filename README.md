@@ -1,3 +1,5 @@
+http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
